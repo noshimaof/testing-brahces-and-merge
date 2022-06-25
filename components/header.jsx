@@ -6,7 +6,7 @@ export const Header = () => {
     <div>
       Header
 
-      <div>new button</div>
+     <button>hello</button>
     </div>
   )
 }
